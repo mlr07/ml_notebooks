@@ -1,6 +1,6 @@
 # Notebooks
 
-Notebooks exploring range of ML topics.
+Notebooks exploring a range of ML topics.
 
 Topics based on self study, interest, and work requirements.
 
